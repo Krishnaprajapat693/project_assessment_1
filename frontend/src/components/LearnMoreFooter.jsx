@@ -1,11 +1,11 @@
 import React from 'react'
-import LearnImage from "../assets/LearnMoreimage.png"
+import LearnImage from "../assets/LearnMoreImage.png"
 const LearnMoreFooter = () => {
   return (
     <>
         <section className="relative h-[55vh] w-full">
         <img
-          src="/assets/LearnMoreimage.png" 
+          src={LearnImage} 
           alt="Living Room"
           className="absolute inset-0 h-full w-full object-cover"
         />
