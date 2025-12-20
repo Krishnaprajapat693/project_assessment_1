@@ -5,7 +5,7 @@ const LearnMoreFooter = () => {
     <>
         <section className="relative h-[55vh] w-full">
         <img
-          src={LearnImage}
+          src="/assets/LearnMoreimage.png"
           alt="Living Room"
           className="absolute inset-0 h-full w-full object-cover"
         />
