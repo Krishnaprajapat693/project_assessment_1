@@ -77,7 +77,7 @@ const HeroSection = () => {
                     <input
                       name='mobileNumber'
                       type="text"
-                      placeholder="Your Project"
+                      placeholder="Mobile Number"
                       className="w-full px-4 py-3 rounded bg-transparent border border-white/40 placeholder-white/70"
                     />
                     <input

@@ -111,7 +111,7 @@ export async function addClient(req, res){
 
     // Save to DB
     const client = new Client({
-      image: req.file.path, // 👈 Cloudinary URL
+      image: req.file.path, //  Cloudinary URL
       name,
       description,
       designation,
